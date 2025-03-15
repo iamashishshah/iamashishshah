@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamashishshah
 - 👀 I’m interested in Development and design
-- 🌱 I’m currently learning Development, Figma, and Data structure(in Java)
+- 🌱 I’m currently learning Development, Figma, and Data structure(in CPP)
 - 💞️ I’m looking to collaborate on Design, Development Project
 - 📫 How to reach me on Instagram(dotashishah), or LinkedIn
 - 😄 Pronouns: he/him
